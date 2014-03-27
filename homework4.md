@@ -9,7 +9,7 @@ We can view a DDG as a logical graph where computational results are expressed i
 
 We can consider a DDG as consisting of input nodes, output nodes, intermediate nodes, data selector nodes, and associated links and properties. Again, the focus is on the output or results, and their resolution through DDGs in terms of input variables and constants. Because of this procedure for data resolution through backward chaining using D-U relations, the DDGs typically show the following characteristics:
 
-<li>There is usually one output data itern or variable, or at most a few of them.</li>
-<li>There are typically more input variables and constants.</li>
-<li>Multiple inlinks are common.</li>
-<li>Since the DDG is typically shown as flowing from top to bottom, we have the “fan” shaped DDGs as the most common type. This shape is also often described as tree-shaped (like a real tree on the ground, not the upside-down ones in computing literature), or shaped like a river with its tributaries.</li>
+* There is usually one output data itern or variable, or at most a few of them.
+* There are typically more input variables and constants.
+* Multiple inlinks are common.
+* Since the DDG is typically shown as flowing from top to bottom, we have the “fan” shaped DDGs as the most common type. This shape is also often described as tree-shaped (like a real tree on the ground, not the upside-down ones in computing literature), or shaped like a river with its tributaries.

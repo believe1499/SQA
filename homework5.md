@@ -1,6 +1,6 @@
 #Understanding of formal methods in general and model checking in particular
 #####Xiaobin Fang 13126067
-<hr>
+<hr/>
 
 ###Formal Methods
 In computer science, specifically software engineering and hardware engineering, formal methods are a particular kind of mathematically based techniques for the specification, development and verification of software and hardware systems. The use of formal methods for software and hardware design is motivated by the expectation that, as in other engineering disciplines, performing appropriate mathematical analysis can contribute to the reliability and robustness of a design.
